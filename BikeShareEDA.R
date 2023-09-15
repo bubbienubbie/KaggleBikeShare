@@ -1,7 +1,4 @@
-install.packages("tidyverse")
-install.packages("DataExplorer")
-install.packages("vroom")
-install.packages("GGally")
+
 
 library(tidyverse)
 library(vroom)
