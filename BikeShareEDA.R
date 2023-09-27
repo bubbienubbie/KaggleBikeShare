@@ -24,3 +24,9 @@ plot4 <- ggplot(data=bike, aes(x=humidity, y=count)) + geom_point() + geom_smoot
 
 install.packages("tidymodels")
 library(tidymodels)
+
+
+
+
+
+
